@@ -70,5 +70,8 @@ react-native用到了`ecmascript6`的语法，举例：
        AppRegistry.registerComponent('jzyc', function () { return jzyc; });
     ```
 
- 
+## 效果图
+
+![image](http://cnt1992.sinaapp.com/static_img/home.png)
+![image](http://cnt1992.sinaapp.com/static_img/list.png) 
     
